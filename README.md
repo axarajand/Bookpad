@@ -1,4 +1,6 @@
-Aplikasi memakai komponen RecyclerView untuk menampilkan List
+Penerapan Activity
+Menerapkan Intent untuk berpindah Activity
+RecyclerView untuk menampilkan data secara efisien dan lebih fleksibel
 
 Halaman Utama
   * Menampilkan gambar dan informasi dalam format List.

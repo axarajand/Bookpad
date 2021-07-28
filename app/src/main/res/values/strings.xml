@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bookpad</string>
+    <string name="books_title">Judul Buku</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="about">About</string>
+    <string name="axarajand_gmail_com">axarajand@gmail.com</string>
+    <string name="axa_rajandrya">Axa Rajandrya</string>
+    <string name="back">back</string>
+</resources>

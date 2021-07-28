@@ -1,3 +1,5 @@
+Aplikasi untuk menampilkan list dan detail dari buku.
+
 Penerapan Activity
 
 Menerapkan Intent untuk berpindah Activity

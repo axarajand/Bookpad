@@ -1,4 +1,4 @@
-Aplikasi untuk menampilkan list dan detail dari buku.
+**Aplikasi untuk menampilkan list dan detail dari buku.**
 
 Penerapan Activity
 
